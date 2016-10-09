@@ -9,6 +9,7 @@ public class TestRunner {
             System.out.println(failure.toString());
         }
 	System.out.println("Here's my change");
+	System.out.println("Another change");
         System.out.println(result.wasSuccessful());
     }
 }
